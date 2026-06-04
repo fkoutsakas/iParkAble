@@ -18,10 +18,11 @@ https://openedtech.ellak.gr/robotics2026/iparkable-exipni-diachirisi-theseon-sta
 
 | Εξοπλισμός | Ποσότητα | Ενδεικτικό κόστος | 
 | :--- | :--- | :--- |
-Raspberry Pi 5 | 1 | 130 - 150 €|
-Κάμερα ΑΙ | 1 | 80 € |
-Τροφοδοτικό & microSD | 1 | 35-40 € |
-Αισθητήρας ToF (σε στύλο) | 1 | 8 – 15 €|
-Υλικά κατασκευής μακέτας | | 10 - 20 € |
-
-Συνολικό ενδεικτικό κόστος: 250- 270 €
+Raspberry Pi 5 - 8GB | 1 | €134.90 |
+Official Raspberry Pi 5 Power Supply – 27W White | 1 | €14.80 |
+Official Raspberry Pi Micro HDMI Cable 1m | 1 |  €5.90 |
+Raspberry Pi microSD Card - 64GB | 1 |  €19.90 |
+Raspberry Pi AI Camera | 1 | 79,90 € |
+Official Raspberry Pi 5 Camera Adapter Cable (50) | 1 | €3.90 |
+Gravity VL53L0X ToF Distance Sensor (30-2000mm) | 1 | 16,00 € |
+Συνολικό Κόστος  |  | 275,30 € |
