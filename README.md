@@ -16,7 +16,7 @@
 
 ## Εξοπλισμός που χρησιμοποιήθηκε
 
-| Περιγραφή | Ποσότητα | Ενδεικτικό κόστος | 
+| Περιγραφή | Ποσότητα | Κόστος | 
 | :--- | :--- | :--- |
 | Raspberry Pi 5 - 8GB | 1 | €134.90 |
 | Official Raspberry Pi 5 Power Supply – 27W White | 1 | €14.80 |
@@ -24,5 +24,5 @@
 | Raspberry Pi microSD Card - 64GB | 1 |  €19.90 |
 | Raspberry Pi AI Camera | 1 | 79,90 € |
 | Official Raspberry Pi 5 Camera Adapter Cable (50) | 1 | €3.90 |
-| Gravity VL53L0X ToF Distance Sensor (30-2000mm) | 1 | 16,00 € |
+| Gravity VL53L0X ToF Distance Sensor (30-2000mm) | 1 | € 16,00 |
 | Συνολικό Κόστος  |  | 275,30 € |
