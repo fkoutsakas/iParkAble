@@ -25,4 +25,4 @@
 | Raspberry Pi AI Camera | 1 | 79,90 € |
 | Official Raspberry Pi 5 Camera Adapter Cable (50) | 1 | €3.90 |
 | Gravity VL53L0X ToF Distance Sensor (30-2000mm) | 1 | € 16,00 |
-| Συνολικό Κόστος  |  | 275,30 € |
+| ** Συνολικό Κόστος  |  | 275,30 € ** |
