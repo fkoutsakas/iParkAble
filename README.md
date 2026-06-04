@@ -14,13 +14,15 @@
 
 Αναλυτική παρουσίαση του έργου στη [σελίδα παρουσίασης του 8ου Πανελλήνιου Διαγωνισμού Ανοιχτών Τεχνολογιών για την εκπαίδευση](https://openedtech.ellak.gr/robotics2026/iparkable-exipni-diachirisi-theseon-stathmefsis-amea-me-technologies-anichtis-architektonikis/).
 
-| Εξοπλισμός | Ποσότητα | Ενδεικτικό κόστος | 
+## Εξοπλισμός που χρησιμοποιήθηκε
+
+| Περιγραφή | Ποσότητα | Ενδεικτικό κόστος | 
 | :--- | :--- | :--- |
-Raspberry Pi 5 - 8GB | 1 | €134.90 |
-Official Raspberry Pi 5 Power Supply – 27W White | 1 | €14.80 |
-Official Raspberry Pi Micro HDMI Cable 1m | 1 |  €5.90 |
-Raspberry Pi microSD Card - 64GB | 1 |  €19.90 |
-Raspberry Pi AI Camera | 1 | 79,90 € |
-Official Raspberry Pi 5 Camera Adapter Cable (50) | 1 | €3.90 |
-Gravity VL53L0X ToF Distance Sensor (30-2000mm) | 1 | 16,00 € |
-Συνολικό Κόστος  |  | 275,30 € |
+| Raspberry Pi 5 - 8GB | 1 | €134.90 |
+| Official Raspberry Pi 5 Power Supply – 27W White | 1 | €14.80 |
+| Official Raspberry Pi Micro HDMI Cable 1m | 1 |  €5.90 |
+| Raspberry Pi microSD Card - 64GB | 1 |  €19.90 |
+| Raspberry Pi AI Camera | 1 | 79,90 € |
+| Official Raspberry Pi 5 Camera Adapter Cable (50) | 1 | €3.90 |
+| Gravity VL53L0X ToF Distance Sensor (30-2000mm) | 1 | 16,00 € |
+| Συνολικό Κόστος  |  | 275,30 € |
